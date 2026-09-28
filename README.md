@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hi, I am Britania Rose, a Systems Engineer with five years of experience administering enterprise Linux and Windows infrastructure. This profile holds personal projects I am building outside of work, including automation scripts for common systems administration tasks and a full-stack job application tracker. I am AWS Certified Cloud Practitioner certified and currently expanding into cloud and DevOps tooling.
 
 <!--
 **brose-dev/brose-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
